@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | **Durée** | 2 heures |
-| **Documents autorisés** | Documentation officielle uniquement (reactnative.dev, docs.expo.dev) |
-| **Rendu** | Projet complet zippé, envoyé par email |
+| **Documents autorisés** | Documentation officielle uniquement (reactnative.dev, docs.expo.dev) et application CineTrack|
+| **Rendu** | Merci de fork le projet comme ça je pourrais accèder à vos rendus  |
 | **Barème** | /100 points (+5 bonus) |
 
 ---
